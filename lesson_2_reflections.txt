@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-- Gives a control to be able to commit only select files from working directory into repository
+

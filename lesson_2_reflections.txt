@@ -4,4 +4,15 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 -- Include only those files which are corresponding to one logical change
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-- Incase of any non-linear changes, wherein we want to introduce a completely new logical change which involves some experimentation, or some new feature, but want to keep the lastest master copy intact - we can branch out
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-- It takes in both the changes into the commit assuming these changes are independent.
+-- Reference is made to the parent copy while making these commits
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-- Pros : Eases out efforts and makes merge simpler
+-- Cons : Assuming that the changes that seem to be independent to git - since involve different lines of code are not implicitly connected and dependent
+
 

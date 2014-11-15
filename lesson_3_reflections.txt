@@ -1,6 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
--- For 2 reasons : 1. Either to back-up already existing code/work
+-- For two reasons : 1. Either to back-up already existing code/work
 --                 2. To share code/work with other individuals
 
 Why might you want to always pull changes manually rather than having Git

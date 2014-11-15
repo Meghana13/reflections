@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+-- For 2 main reason : 1. To keep backed-up code on repository 
+--                     2. To share the code with others via gitHub

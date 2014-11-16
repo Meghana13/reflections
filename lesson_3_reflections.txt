@@ -28,5 +28,5 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+-- Separate branch : If we want to have some other individual/contributor's      opinon on the same. To do a full-proof commit
+-- Its a little tedious job - to pull change in local master, merge master into branch, push branch into remote and finally merge branch into master 

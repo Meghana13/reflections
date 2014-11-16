@@ -19,8 +19,8 @@ use one instead of another?
                                     who has forked from where. The source developer of the code is not aware of this
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+-- To be able to see any conflicting changes that might have occured on the repository by other contributor with
+   with respect to changes we have made
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
